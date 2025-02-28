@@ -2,6 +2,12 @@
 
 An implementation of the Agentic Information Retrieval (Agentic IR) framework based on the paper by Weinan Zhang, Junwei Liao, Ning Li, and Kounianhua Du.
 
+![Traditional IR vs. Agentic IR](docs/images/traditional_vs_agentic_ir.png)
+*Figure 1: The paradigms of traditional IR vs. agentic IR.*
+
+![Agentic IR in Life Assistant Scenarios](docs/images/life_assistant_scenarios.png)
+*Figure 2: Illustration of agentic IR in life assistant scenarios.*
+
 ## What is Agentic IR?
 
 Agentic Information Retrieval (Agentic IR) is a novel IR paradigm shaped by the capabilities of LLM agents. Unlike traditional IR systems that filter predefined sets of candidate items, Agentic IR expands the scope of accessible tasks and leverages a suite of new techniques to redefine information retrieval.
